@@ -61,8 +61,8 @@ public class RayGun : MonoBehaviour
 
         // Draw the laser !
         _beam.enabled = true;
-        //_beam.material.color = Color.white;
         _beam.material = new Material(Shader.Find("Sprites/Default"));
-        _beam.SetColors(Color.green, Color.green);
+        _beam.startColor = Color.green;
+        _beam.endColor = Color.green;
     }
 }
