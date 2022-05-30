@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8092775274837046543}
   m_Layer: 0
   m_Name: mirrors3
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -221,7 +221,7 @@ GameObject:
   - component: {fileID: 8092775274357824325}
   m_Layer: 0
   m_Name: muffler
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -832,7 +832,7 @@ GameObject:
   - component: {fileID: 8092775274723795213}
   m_Layer: 0
   m_Name: Diffuser1
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1228,7 +1228,7 @@ GameObject:
   - component: {fileID: 8092775275675632514}
   m_Layer: 0
   m_Name: Diffuser
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1339,7 +1339,7 @@ GameObject:
   - component: {fileID: 8092775274512530506}
   m_Layer: 0
   m_Name: Turn_signals_mirrors
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1545,7 +1545,7 @@ GameObject:
   - component: {fileID: 8092775275707702239}
   m_Layer: 0
   m_Name: Parking_radar
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2322,7 +2322,7 @@ GameObject:
   - component: {fileID: 8092775275206621622}
   m_Layer: 0
   m_Name: wireless-antenna
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2907,7 +2907,7 @@ GameObject:
   - component: {fileID: 8092775275373077375}
   m_Layer: 0
   m_Name: Windows
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3113,7 +3113,7 @@ GameObject:
   - component: {fileID: 8092775275924762494}
   m_Layer: 0
   m_Name: front_spoiler2
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3224,7 +3224,7 @@ GameObject:
   - component: {fileID: 8092775275126797187}
   m_Layer: 0
   m_Name: Headlight
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3512,7 +3512,7 @@ GameObject:
   - component: {fileID: 8092775275820258398}
   m_Layer: 0
   m_Name: Door_handle_front
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3812,7 +3812,7 @@ GameObject:
   - component: {fileID: 8092775275685718974}
   m_Layer: 0
   m_Name: Car_grille2
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4779,7 +4779,7 @@ GameObject:
   - component: {fileID: 8092775275623176627}
   m_Layer: 0
   m_Name: Turn_signals
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4890,7 +4890,7 @@ GameObject:
   - component: {fileID: 8092775274646009527}
   m_Layer: 0
   m_Name: Plane.020
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5191,7 +5191,7 @@ GameObject:
   - component: {fileID: 8092775274302665302}
   m_Layer: 0
   m_Name: Back_window
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5590,7 +5590,7 @@ GameObject:
   - component: {fileID: 8092775276147539568}
   m_Layer: 0
   m_Name: Door_handle_back
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5891,7 +5891,7 @@ GameObject:
   - component: {fileID: 8092775275945860578}
   m_Layer: 0
   m_Name: Brake_disc_frontLeft
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6099,7 +6099,7 @@ GameObject:
   - component: {fileID: 8092775275892641236}
   m_Layer: 0
   m_Name: Brake_disc_mounting_Back
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6592,7 +6592,7 @@ GameObject:
   - component: {fileID: 8092775275898081738}
   m_Layer: 0
   m_Name: rear_turn_signal
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6974,7 +6974,7 @@ GameObject:
   - component: {fileID: 8092775275552097751}
   m_Layer: 0
   m_Name: Front light
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7370,7 +7370,7 @@ GameObject:
   - component: {fileID: 8092775275791998512}
   m_Layer: 0
   m_Name: Windshield
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7481,7 +7481,7 @@ GameObject:
   - component: {fileID: 8092775274138270724}
   m_Layer: 0
   m_Name: Brake_disc_mounting
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7594,7 +7594,7 @@ GameObject:
   - component: {fileID: 8092775275824487176}
   m_Layer: 0
   m_Name: Tire_back
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7898,7 +7898,7 @@ GameObject:
   - component: {fileID: 8092775275828995255}
   m_Layer: 0
   m_Name: front_spoiler4
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8009,7 +8009,7 @@ GameObject:
   - component: {fileID: 8092775274583119597}
   m_Layer: 0
   m_Name: Parking_radar2
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8216,7 +8216,7 @@ GameObject:
   - component: {fileID: 8092775274534684552}
   m_Layer: 0
   m_Name: Diffuser2
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8992,7 +8992,7 @@ GameObject:
   - component: {fileID: 8092775275871186331}
   m_Layer: 0
   m_Name: trunk bar
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9578,7 +9578,7 @@ GameObject:
   - component: {fileID: 8092775274476670073}
   m_Layer: 0
   m_Name: Brake_disc_BackLeft
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9786,7 +9786,7 @@ GameObject:
   - component: {fileID: 8092775275667881391}
   m_Layer: 0
   m_Name: Wheel_rim2_back
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9994,7 +9994,7 @@ GameObject:
   - component: {fileID: 8092775275328019113}
   m_Layer: 0
   m_Name: Fins
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10295,7 +10295,7 @@ GameObject:
   - component: {fileID: 8092775275172959083}
   m_Layer: 0
   m_Name: mirrors
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10407,7 +10407,7 @@ GameObject:
   - component: {fileID: 8092775275794131241}
   m_Layer: 0
   m_Name: Back light
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10710,7 +10710,7 @@ GameObject:
   - component: {fileID: 8092775275853789997}
   m_Layer: 0
   m_Name: Wheel_rim1_back
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10839,7 +10839,7 @@ GameObject:
   - component: {fileID: 8092775275067606503}
   m_Layer: 0
   m_Name: Tire_Front
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11141,7 +11141,7 @@ GameObject:
   - component: {fileID: 8092775275404184700}
   m_Layer: 0
   m_Name: front_spoiler
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11348,7 +11348,7 @@ GameObject:
   - component: {fileID: 8092775275502244067}
   m_Layer: 0
   m_Name: Diffuser3
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11459,7 +11459,7 @@ GameObject:
   - component: {fileID: 8092775275228061972}
   m_Layer: 0
   m_Name: Bolt_wheel_frontLeft
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11762,7 +11762,7 @@ GameObject:
   - component: {fileID: 8092775275575535461}
   m_Layer: 0
   m_Name: front_spoiler3
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12825,7 +12825,7 @@ GameObject:
   - component: {fileID: 8092775275739462263}
   m_Layer: 0
   m_Name: Radiator
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13127,7 +13127,7 @@ GameObject:
   - component: {fileID: 8092775275198767439}
   m_Layer: 0
   m_Name: mirrors1
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13903,7 +13903,7 @@ GameObject:
   - component: {fileID: 8092775275331785183}
   m_Layer: 0
   m_Name: Brake_disc_mounting_Back1
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14298,7 +14298,6 @@ GameObject:
   - component: {fileID: 3834666613186496063}
   - component: {fileID: 2834464423112939221}
   - component: {fileID: 1514985461284458660}
-  - component: {fileID: 8092775275313509708}
   m_Layer: 0
   m_Name: Hood
   m_TagString: Untagged
@@ -14382,23 +14381,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.012657749, y: 0.011222905, z: 0.0023193131}
   m_Center: {x: -0.0000000020954758, y: -0.013705316, z: 0.006819296}
---- !u!114 &8092775275313509708
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8317755545550692892}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  description: "Le capot sert \xE0 cacher les differents \xE9lements utiles au bon
-    fonctionnment de la voiture comme le moteur, la batterie, le turbo sur certaines
-    voitures, un filtre \xE0 air, la boite de vitesse et l'embrayage sont aussi souvent
-    reli\xE9 au moteur."
-  descriptionText: {fileID: 0}
 --- !u!1 &8356443616270309315
 GameObject:
   m_ObjectHideFlags: 0
@@ -15459,7 +15441,7 @@ GameObject:
   - component: {fileID: 8092775275958886428}
   m_Layer: 0
   m_Name: back light1
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15651,7 +15633,7 @@ GameObject:
   - component: {fileID: 8092775275414926572}
   m_Layer: 0
   m_Name: Wheel_rim_Front
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16144,7 +16126,7 @@ GameObject:
   - component: {fileID: 8092775274192565309}
   m_Layer: 0
   m_Name: brake disc mounting1
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16257,7 +16239,7 @@ GameObject:
   - component: {fileID: 8092775274807846269}
   m_Layer: 0
   m_Name: Wheel_rim1_Front
-  m_TagString: Untagged
+  m_TagString: Car Part
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
