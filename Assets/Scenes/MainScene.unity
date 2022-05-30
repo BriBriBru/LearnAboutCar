@@ -683,7 +683,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 12
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -811,8 +811,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   description: "Le capot sert \xE0 cacher les differents \xE9lements utiles au bon
-    fonctionnment de la voiture comme le moteur, la batterie, le turbu, filtre \xE0
-    air ect..."
+    fonctionnment de la voiture comme le moteur, la batterie, le turbo sur certaines
+    voitures, un filtre \xE0 air, la boite de vitesse et l'embrayage sont aussi souvent
+    reli\xE9 au moteur."
   descriptionText: {fileID: 389050947}
 --- !u!1 &461392244 stripped
 GameObject:
