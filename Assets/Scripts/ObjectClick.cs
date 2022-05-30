@@ -18,7 +18,23 @@ public class ObjectClick : MonoBehaviour
             var selection = hit.transform;
             var rig = selection.GetComponent<Rigidbody>();
 
-            if (hit.collider.gameObject.name == "Hood")
+            if (hit.collider.gameObject.name == "Cube1")
+            {
+                if (Input.GetMouseButton(0))
+                {
+                    rig.AddForce(Camera.main.transform.forward * 10f);
+                }
+            }
+
+            if (hit.collider.gameObject.name == "Cube")
+            {
+                if (Input.GetMouseButton(0))
+                {
+                    rig.AddForce(rig.transform.up * force, ForceMode.Impulse);
+                }
+            }
+
+            if (hit.collider.gameObject.name == "Porte")
             {
                 if (Input.GetMouseButtonDown(0))
                 {
@@ -32,14 +48,14 @@ public class ObjectClick : MonoBehaviour
     {
         if (etatF)
         {
-            animator.Play("HoodOpen");
+            animator.Play("DoorOpen");
             etatF = false;
             etatO = true;
         }
 
         else if (etatO)
         {
-            animator.Play("HoodClose");
+            animator.Play("DoorClose");
             etatF = true;
             etatO = false;
         }
