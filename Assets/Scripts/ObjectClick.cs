@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class ObjectClick : MonoBehaviour
 {
-    public float force = 5f;
     public Animator animator;
 
     private bool etatF = true;
@@ -13,49 +12,31 @@ public class ObjectClick : MonoBehaviour
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
 
-        if (Physics.Raycast(ray, out hit))
+        if (Input.GetMouseButtonDown(0))
         {
-            var selection = hit.transform;
-            var rig = selection.GetComponent<Rigidbody>();
-
-            if (hit.collider.gameObject.name == "Cube1")
+            if (Physics.Raycast(ray, out hit))
             {
-                if (Input.GetMouseButton(0))
+                if (hit.collider.gameObject.name == "Hood")
                 {
-                    rig.AddForce(Camera.main.transform.forward * 10f);
-                }
-            }
-
-            if (hit.collider.gameObject.name == "Cube")
-            {
-                if (Input.GetMouseButton(0))
-                {
-                    rig.AddForce(rig.transform.up * force, ForceMode.Impulse);
-                }
-            }
-
-            if (hit.collider.gameObject.name == "Porte")
-            {
-                if (Input.GetMouseButtonDown(0))
-                {
-                    Manage();
+                    ManageAnimation();
                 }
             }
         }
+
     }
 
-    public void Manage()
+    public void ManageAnimation()
     {
         if (etatF)
         {
-            animator.Play("DoorOpen");
+            animator.Play("Open Car Hood");
             etatF = false;
             etatO = true;
         }
 
         else if (etatO)
         {
-            animator.Play("DoorClose");
+            animator.Play("Close Car Hood");
             etatF = true;
             etatO = false;
         }
