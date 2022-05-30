@@ -135,6 +135,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1950527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+    et une meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &38844893 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6015342002551647003, guid: fa48940da53ecff46b6515225109c740,
@@ -264,9 +279,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'Les roues de la voitures contiennent plusieurs choses :  un pneu
-    en caouchoux, une jante, un f=dique de frein ainsi qu''un etrier de freins et
-    ses plaquettes'
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
   descriptionText: {fileID: 389050947}
 --- !u!1 &104975764 stripped
 GameObject:
@@ -280,6 +296,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &117055392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117055391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Spoiler avant, permet d'avoir un meilleur a\xE9rodynamisme et une
+    meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &129420307 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8512480637989567966, guid: fa48940da53ecff46b6515225109c740,
@@ -310,6 +341,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &166234735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166234734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les clignotants d'une voiture servent \xE0 indiquer aux autres usagers
+    que la voiture va prendre une certaine direction"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &171774284
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,12 +443,42 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &214152377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214152376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Spoiler avant, permet d'avoir un meilleur a\xE9rodynamisme et une
+    meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &220534279 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4180756323818559893, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &220534283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220534279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les feux avant contiennent plusieurs \xE9l\xE9ments comme un rappel
+    de cilgnotants, les feux de croisements, les plein phares, et les feux de brouillard."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &254180856 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 334586307858616193, guid: fa48940da53ecff46b6515225109c740,
@@ -445,9 +521,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'Les roues de la voitures contiennent plusieurs choses :  un pneu
-    en caouchoux, une jante, un dique de frein ainsi qu''un etrier de freins et ses
-    plaquettes'
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
   descriptionText: {fileID: 389050947}
 --- !u!1 &277131165 stripped
 GameObject:
@@ -467,12 +544,41 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &305443475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 305443474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les r\xE9troviseurs d'une voiture permet au pilote d'avoir une vision
+    sur l'arriere de celle-ci"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &314370665 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2252636084295728357, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &314370666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314370665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: L'antenne sur une voiture permet de capter la radio dans la voiture.
+  descriptionText: {fileID: 389050947}
 --- !u!1 &328847272 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5506497628670750989, guid: fa48940da53ecff46b6515225109c740,
@@ -497,6 +603,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &348274871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 348274870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les r\xE9troviseurs d'une voiture permet au pilote d'avoir une vision
+    sur l'arriere de celle-ci"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &388814443 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2079638680228532577, guid: fa48940da53ecff46b6515225109c740,
@@ -588,6 +709,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &394453087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394453086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les feux avant contiennent plusieurs \xE9l\xE9ments comme un rappel
+    de cilgnotants, les feux de croisements, les plein phares, et les feux de brouillard."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &406762916 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6359497466292448828, guid: fa48940da53ecff46b6515225109c740,
@@ -600,12 +736,44 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &416346275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 416346274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les vitres permettent aux personnes pr\xE9sente dans la voiture d'avoir
+    une visibilit\xE9 sur l'exterieur."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &441106946 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2248858398235321667, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &441106947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 441106946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &448718611 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9091094862930139297, guid: fa48940da53ecff46b6515225109c740,
@@ -630,12 +798,43 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &459138704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459138703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le capot sert \xE0 cacher les differents \xE9lements utiles au bon
+    fonctionnment de la voiture comme le moteur, la batterie, le turbu, filtre \xE0
+    air ect..."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &461392244 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4553290073538286241, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &461392245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 461392244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Spoiler arri\xE8re, permet d'avoir un meilleur a\xE9rodynamisme et
+    une meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &507540388 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1595772483200273983, guid: fa48940da53ecff46b6515225109c740,
@@ -690,6 +889,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &636105664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636105660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les phares arri\xE8re continnent plusieurs choses comme les clignotants,
+    le feu de recul, les feux antibrouilards ainsi ainsi que les feux de croisements."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &638814320 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5831332997336128140, guid: fa48940da53ecff46b6515225109c740,
@@ -720,9 +934,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'Les roues de la voitures contiennent plusieurs choses :  un pneu
-    en caouchoux, une jante, un f=dique de frein ainsi qu''un etrier de freins et
-    ses plaquettes'
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
   descriptionText: {fileID: 389050947}
 --- !u!1 &670235809 stripped
 GameObject:
@@ -730,6 +945,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &670235810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670235809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Spoiler avant, permet d'avoir un meilleur a\xE9rodynamisme et une
+    meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &714665420 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 267785017554142220, guid: fa48940da53ecff46b6515225109c740,
@@ -742,6 +972,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &715894188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715894187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les poign\xE9es de portes arri\xE8re servent \xE0 ouvrir les portes
+    arri\xE8re."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &723960719 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2087940372802484687, guid: fa48940da53ecff46b6515225109c740,
@@ -784,6 +1029,22 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &855533995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855533991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Cette grille permet de refroidir le moteur ainsi que le radiateur
+    qu'il y a derri\xE8re celle-ci avec l'ai g\xE9n\xE9rer par la voiture lorsqu'elle
+    est en mouvement."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &858879709 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7808545959081117202, guid: fa48940da53ecff46b6515225109c740,
@@ -814,12 +1075,44 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &887277571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 887277570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les radars dit de parking sont une options sur les voitures modernes
+    qui permettent au conducteur de se garer de maniere plus facile et avec plus
+    de s\xE9curit\xE9."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &892500062 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7839584462639539456, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &892500066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892500062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Cette grille permet de refroidir le moteur ainsi que le radiateur
+    qu'il y a derri\xE8re celle-ci avec l'ai g\xE9n\xE9rer par la voiture lorsqu'elle
+    est en mouvement."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &907491471 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7920645204724507936, guid: fa48940da53ecff46b6515225109c740,
@@ -838,6 +1131,23 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &910339699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 910339698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &914745533 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1458341462208083384, guid: fa48940da53ecff46b6515225109c740,
@@ -856,6 +1166,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &919081054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919081053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+    et une meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &930759555 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5246493363189180684, guid: fa48940da53ecff46b6515225109c740,
@@ -868,18 +1193,65 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &965067286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965067285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les clignotants d'une voiture servent \xE0 indiquer aux autres usagers
+    que la voiture va prendre une certaine direction"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &970513927 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6745214973918817935, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &970513928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970513927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &975208003 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5020695846149748889, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &975208007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975208003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les phares arri\xE8re continnent plusieurs choses comme les clignotants,
+    le feu de recul, les feux antibrouilards ainsi ainsi que les feux de croisements."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &990848814 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4017378323646786091, guid: fa48940da53ecff46b6515225109c740,
@@ -898,6 +1270,23 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &992602353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 992602352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
+  descriptionText: {fileID: 389050947}
 --- !u!54 &992602357
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -938,30 +1327,106 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1026115458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026115457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les poign\xE9es de portes avant servent \xE0 ouvrir les portes avant."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1034172263 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5560738479158639766, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1034172267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1034172263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Spoiler avant, permet d'avoir un meilleur a\xE9rodynamisme et une
+    meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1038665939 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5646516615961378642, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1038665940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038665939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1069038321 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6453712724212708027, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1069038325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069038321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les phares arri\xE8re continnent plusieurs choses comme les clignotants,
+    le feu de recul, les feux antibrouilards ainsi ainsi que les feux de croisements."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1071156715 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3863891763137510156, guid: fa48940da53ecff46b6515225109c740,
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1071156716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1071156715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le pare brise avant est une vitre qui permet d'avoir une bonne visibilit\xE9
+    de l'avant de la voiture et de ce qu'il se passe devant nous."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1085549264
 GameObject:
   m_ObjectHideFlags: 0
@@ -1110,8 +1575,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: "Pot d'echappement qui permet l'\xE9vacuation des gaz et microparticules
-    du au fonctionnement du moteur \xE0 combustion"
+  description: "Le pot d'echappement et plus pr\xE9cisemment c'est l'\xE9l\xE8ment
+    qui permet l'\xE9vacuation des gaz et microparticules d\xFB au fonctionnement
+    du moteur \xE0 combustion"
   descriptionText: {fileID: 389050947}
 --- !u!1 &1179155315 stripped
 GameObject:
@@ -1131,6 +1597,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1254724692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1254724691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+    et une meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1257457390 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7207163773117164173, guid: fa48940da53ecff46b6515225109c740,
@@ -1143,6 +1624,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1260384150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260384149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: Les clignottants permmettent au conducteur de la voiture d'indiquer
+    aux autres usagers de la route que celle-ci change de direction
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1260686802 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 748748645750174535, guid: fa48940da53ecff46b6515225109c740,
@@ -1167,6 +1663,23 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1296228261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296228260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1300367730 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2006664941741072104, guid: fa48940da53ecff46b6515225109c740,
@@ -1215,9 +1728,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'Les roues de la voitures contiennent plusieurs choses :  un pneu
-    en caouchoux, une jante, un f=dique de frein ainsi qu''un etrier de freins et
-    ses plaquettes'
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
   descriptionText: {fileID: 389050947}
 --- !u!1 &1368613303 stripped
 GameObject:
@@ -1261,6 +1775,22 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1487020426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1487020425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le pare brise arri\xE8re est une vitre qui permet d'avoir une bonne
+    visibilit\xE9 de l'arriere de la voiture et de ce qu'il se passe derri\xE8re
+    nous."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1498326871 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 430688679949434734, guid: fa48940da53ecff46b6515225109c740,
@@ -1367,9 +1897,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'Les roues de la voitures contiennent plusieurs choses :  un pneu
-    en caouchoux, une jante, un f=dique de frein ainsi qu''un etrier de freins et
-    ses plaquettes'
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
   descriptionText: {fileID: 389050947}
 --- !u!1 &1582255554 stripped
 GameObject:
@@ -1640,6 +2171,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1932207467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932207463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Spoiler arri\xE8re, permet d'avoir un meilleur a\xE9rodynamisme et
+    une meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1955178877 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4298325041205322587, guid: fa48940da53ecff46b6515225109c740,
@@ -1676,6 +2222,22 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2011858225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2011858221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les radars dit de parking sont une options sur les voitures modernes
+    qui permettent au conducteur de se garer de maniere plus facile et avec plus
+    de s\xE9curit\xE9."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &2014794148 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1355876594759577891, guid: fa48940da53ecff46b6515225109c740,
@@ -1688,6 +2250,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2026120915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2026120914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Les r\xE9troviseurs d'une voiture permet au pilote d'avoir une vision
+    sur l'arriere de celle-ci"
+  descriptionText: {fileID: 389050947}
 --- !u!1 &2055321245 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1112528766321136217, guid: fa48940da53ecff46b6515225109c740,
@@ -1706,9 +2283,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'Les roues de la voitures contiennent plusieurs choses :  un pneu
-    en caouchoux, une jante, un f=dique de frein ainsi qu''un etrier de freins et
-    ses plaquettes'
+  description: "une voiture a 4 roues qui contiennent plusieurs \xE9l\xE9ments dont
+    un pneu en caoutchouc, une jante qui permet de maintenir le pneu, un disque de
+    frein ainsi qu'un \xE9trier de freins et ses plaquettes qui permet \xE0 la voiture
+    de freiner"
   descriptionText: {fileID: 389050947}
 --- !u!1 &2063417326 stripped
 GameObject:
@@ -1835,10 +2413,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8929346014301122532, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light2
+      objectReference: {fileID: 0}
     - target: {fileID: -8707886605823922538, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi4
+      value: logo_audi4
       objectReference: {fileID: 0}
     - target: {fileID: -8555378020708373718, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -1850,10 +2433,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: brake disc mounting1
       objectReference: {fileID: 0}
+    - target: {fileID: -8051060563331371455, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: front_spoiler3
+      objectReference: {fileID: 0}
     - target: {fileID: -7920645204724507936, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Bolt_wheel_BackLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: -7808545959081117202, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front_door
       objectReference: {fileID: 0}
     - target: {fileID: -7462036371361415008, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -1863,7 +2456,7 @@ PrefabInstance:
     - target: {fileID: -7217828390678641911, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi
+      value: logo_audi
       objectReference: {fileID: 0}
     - target: {fileID: -6740117298068195108, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -1879,6 +2472,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6703799604322142549, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light6
+      objectReference: {fileID: 0}
+    - target: {fileID: -6453712724212708027, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Back light
       objectReference: {fileID: 0}
     - target: {fileID: -6361897656411253844, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -1895,6 +2498,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: -6359497466292448828, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light2
+      objectReference: {fileID: 0}
     - target: {fileID: -6265698032521537622, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
@@ -1905,10 +2513,40 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tire_Front
       objectReference: {fileID: 0}
+    - target: {fileID: -6095444680909853211, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light9
+      objectReference: {fileID: 0}
+    - target: {fileID: -5992758091971249751, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Amount
+      objectReference: {fileID: 0}
+    - target: {fileID: -5926298273719021832, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Diffuser3
+      objectReference: {fileID: 0}
+    - target: {fileID: -5654579894606372107, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light3
+      objectReference: {fileID: 0}
+    - target: {fileID: -5560738479158639766, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: front_spoiler4
+      objectReference: {fileID: 0}
     - target: {fileID: -5429867386963399807, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Diffuser2
+      objectReference: {fileID: 0}
+    - target: {fileID: -5259225927154676129, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: rear_bolt_brake_caliper
       objectReference: {fileID: 0}
     - target: {fileID: -5201934407379809399, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -1916,20 +2554,40 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -2813467912831258332, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
+    - target: {fileID: -5020695846149748889, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: trunk bar
+      objectReference: {fileID: 0}
     - target: {fileID: -4898841953366944908, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi_jantes
+      value: logo_audi_rims
       objectReference: {fileID: 0}
     - target: {fileID: -4692133228596622963, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Brake_disc_BackLeft
       objectReference: {fileID: 0}
+    - target: {fileID: -4671976126083325510, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light7
+      objectReference: {fileID: 0}
     - target: {fileID: -4671039180933952461, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Wheel_rim2_back
+      objectReference: {fileID: 0}
+    - target: {fileID: -4425609515867240179, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: rear_turn_signal
+      objectReference: {fileID: 0}
+    - target: {fileID: -4399390135416137635, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Parchment
       objectReference: {fileID: 0}
     - target: {fileID: -4280965471878279654, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2021,6 +2679,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4182501641824413546, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: roof_bar
+      objectReference: {fileID: 0}
+    - target: {fileID: -4180756323818559893, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light
+      objectReference: {fileID: 0}
     - target: {fileID: -3890111241239054189, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
@@ -2037,15 +2705,35 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3067813457123091228, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
+    - target: {fileID: -3268377783853642408, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light5
+      objectReference: {fileID: 0}
+    - target: {fileID: -3130094881678433821, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Back_window
+      objectReference: {fileID: 0}
     - target: {fileID: -3101614667952458654, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi7
+      value: logo_audi7
       objectReference: {fileID: 0}
     - target: {fileID: -2548945667354779655, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Brake_disc_frontLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: -2354236316523240632, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Rear brake caliper
+      objectReference: {fileID: 0}
+    - target: {fileID: -2252636084295728357, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: wireless-antenna
       objectReference: {fileID: 0}
     - target: {fileID: -2224145837015486805, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2053,6 +2741,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -2813467912831258332, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
+    - target: {fileID: -1772936458789377913, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: front_spoiler2
+      objectReference: {fileID: 0}
+    - target: {fileID: -1684434412307416630, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light
+      objectReference: {fileID: 0}
     - target: {fileID: -1499972697524441600, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
@@ -2061,7 +2759,12 @@ PrefabInstance:
     - target: {fileID: -1303533798577211092, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi1
+      value: logo_audi1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1262181953315912166, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: front wings
       objectReference: {fileID: 0}
     - target: {fileID: -1123259407070174301, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2071,7 +2774,7 @@ PrefabInstance:
     - target: {fileID: -989336684848935259, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi3
+      value: logo_audi3
       objectReference: {fileID: 0}
     - target: {fileID: -929342126856782635, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2091,17 +2794,37 @@ PrefabInstance:
     - target: {fileID: -594094835925579944, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: mirrors2
+      value: Turn_signals_mirrors
+      objectReference: {fileID: 0}
+    - target: {fileID: -492420421572216379, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Parking_radar
       objectReference: {fileID: 0}
     - target: {fileID: 225684267558400467, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Hood
       objectReference: {fileID: 0}
+    - target: {fileID: 334586307858616193, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Back_grille_car
+      objectReference: {fileID: 0}
+    - target: {fileID: 614445809150466181, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light1
+      objectReference: {fileID: 0}
     - target: {fileID: 629330058194780336, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 748748645750174535, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: front_bolt_brake_caliper
       objectReference: {fileID: 0}
     - target: {fileID: 806424594250833622, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2173,20 +2896,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1355876594759577891, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Car_grille3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1598952738356583958, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Radiator
+      objectReference: {fileID: 0}
+    - target: {fileID: 2174993213870670870, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light
+      objectReference: {fileID: 0}
     - target: {fileID: 2203565089386200114, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi5
+      value: logo_audi5
       objectReference: {fileID: 0}
     - target: {fileID: 2248858398235321667, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Brake_disc_mounting_Back1
       objectReference: {fileID: 0}
+    - target: {fileID: 2424469556236380531, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light6
+      objectReference: {fileID: 0}
     - target: {fileID: 2502203975881118265, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: mirrors
+      objectReference: {fileID: 0}
+    - target: {fileID: 3239273863981769791, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: front_spoiler
       objectReference: {fileID: 0}
     - target: {fileID: 3281278602838475512, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2203,16 +2951,56 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0.034
       objectReference: {fileID: 0}
+    - target: {fileID: 3667633384733631754, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Parking_radar2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3964659731396801227, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4017378323646786091, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front brake caliper
+      objectReference: {fileID: 0}
     - target: {fileID: 4022312092107346632, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 3067813457123091228, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
+    - target: {fileID: 4097320281929557677, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Back bumper
+      objectReference: {fileID: 0}
+    - target: {fileID: 4287637783898224749, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438467456129079097, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light4
+      objectReference: {fileID: 0}
     - target: {fileID: 4553290073538286241, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Fins
+      objectReference: {fileID: 0}
+    - target: {fileID: 4695666576454475813, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Car_grille
+      objectReference: {fileID: 0}
+    - target: {fileID: 5246493363189180684, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Back_door
       objectReference: {fileID: 0}
     - target: {fileID: 5646516615961378642, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2222,7 +3010,7 @@ PrefabInstance:
     - target: {fileID: 6015342002551647003, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi2
+      value: logo_audi2
       objectReference: {fileID: 0}
     - target: {fileID: 6053153033286715993, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2235,6 +3023,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -2813467912831258332, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
+    - target: {fileID: 6167825872184137093, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6301406419480227030, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: finish_logo
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327419173473467892, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: back light3
+      objectReference: {fileID: 0}
     - target: {fileID: 6369359792790714776, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
@@ -2244,6 +3047,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Brake_disc_mounting_Back
+      objectReference: {fileID: 0}
+    - target: {fileID: 7132968225264481212, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: First_ Front_light
+      objectReference: {fileID: 0}
+    - target: {fileID: 7230587208582541622, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Windows
       objectReference: {fileID: 0}
     - target: {fileID: 7399590954367724860, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
@@ -2255,20 +3068,40 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0.05
       objectReference: {fileID: 0}
+    - target: {fileID: 7469484624682501897, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Headlight
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839584462639539456, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Car_grille2
+      objectReference: {fileID: 0}
     - target: {fileID: 7983018718810541048, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: sigle_audi6
+      value: logo_audi6
       objectReference: {fileID: 0}
     - target: {fileID: 8166259054904654714, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
-      value: potdechappment
+      value: muffler
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360228313705244666, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: finish logo_back
       objectReference: {fileID: 0}
     - target: {fileID: 8610101280589161525, guid: fa48940da53ecff46b6515225109c740,
         type: 3}
       propertyPath: m_Name
       value: Diffuser
+      objectReference: {fileID: 0}
+    - target: {fileID: 9000453064415635077, guid: fa48940da53ecff46b6515225109c740,
+        type: 3}
+      propertyPath: m_Name
+      value: Front light8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa48940da53ecff46b6515225109c740, type: 3}
@@ -2278,6 +3111,21 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2103312403}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2139370193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2139370192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+    et une meilleur repartission de l'ai autour de la voiture"
+  descriptionText: {fileID: 389050947}
 --- !u!1001 &1709582904287052944
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2458,8 +3306,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.014104801, y: 0.0035190287, z: 0.0012503581}
-  m_Center: {x: -0.0000000023283064, y: -0.017188793, z: 0.0055997274}
+  m_Size: {x: 0.0146469725, y: 0.0037792185, z: 0.0014391121}
+  m_Center: {x: 0.00006290705, y: -0.017318884, z: 0.005694105}
 --- !u!65 &7298399288652381428
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2601,8 +3449,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.012259069, y: 0.003136774, z: 0.0012177718}
-  m_Center: {x: -0.0000000027939677, y: 0.017755482, z: 0.002942562}
+  m_Size: {x: 0.013307195, y: 0.003953978, z: 0.0017827179}
+  m_Center: {x: 0.00005188914, y: 0.01772969, z: 0.0032250348}
 --- !u!65 &7298399288777129671
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2705,8 +3553,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.005435375, y: 0.00026841642, z: 0.00046036523}
-  m_Center: {x: 0, y: -0.019570023, z: 0.0047983695}
+  m_Size: {x: 0.0074734897, y: 0.0015659695, z: 0.0012190827}
+  m_Center: {x: -0.000039661758, y: -0.020348739, z: 0.0050505553}
 --- !u!65 &7298399288854351052
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3017,8 +3865,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.00065893645, y: 0.00091900193, z: 0.0005015357}
-  m_Center: {x: -0.0000000021973392, y: 0.010959582, z: 0.011727261}
+  m_Size: {x: 0.002158583, y: 0.0022705195, z: 0.00095718395}
+  m_Center: {x: -0.000104842366, y: 0.01163534, z: 0.011955088}
 --- !u!65 &7298399289227397037
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3043,8 +3891,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.0096220095, y: 0.0025964654, z: 0.0010375844}
-  m_Center: {x: -0.0000000020954758, y: 0.013475523, z: 0.010823323}
+  m_Size: {x: 0.013644539, y: 0.0035333915, z: 0.0018528003}
+  m_Center: {x: -0.00031750585, y: 0.013943986, z: 0.011033226}
 --- !u!65 &7298399289263967815
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3056,8 +3904,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.0168417, y: 0.0005426904, z: 0.0011199105}
-  m_Center: {x: 0, y: -0.0047254777, z: 0.0082800705}
+  m_Size: {x: 0.0168417, y: 0.0008285903, z: 0.0016056674}
+  m_Center: {x: 2.2969372e-10, y: -0.0047398573, z: 0.008213752}
 --- !u!65 &7298399289296421371
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3108,8 +3956,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.012951213, y: 0.0031462084, z: 0.0013622472}
-  m_Center: {x: -0.0000000023283064, y: 0.017220845, z: 0.006947438}
+  m_Size: {x: 0.013317611, y: 0.0031462093, z: 0.0017758403}
+  m_Center: {x: -0.000020260542, y: 0.017220845, z: 0.0069993087}
 --- !u!65 &7298399289404037546
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3173,8 +4021,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.013760708, y: 0.0042669196, z: 0.0019472732}
-  m_Center: {x: -0.0000000020954758, y: 0.017174024, z: 0.0031626443}
+  m_Size: {x: 0.014761946, y: 0.004678395, z: 0.0024658868}
+  m_Center: {x: 0.00017978714, y: 0.017379759, z: 0.003421951}
 --- !u!65 &7298399289423794270
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3199,8 +4047,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.018687747, y: 0.009937731, z: 0.008269886}
-  m_Center: {x: -0.0015590294, y: -0.0126678515, z: 0.004790741}
+  m_Size: {x: 0.018687747, y: 0.00510225, z: 0.004940257}
+  m_Center: {x: -0.0015590298, y: -0.01224703, z: 0.0031259232}
 --- !u!65 &7298399289464689097
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3277,8 +4125,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.012137723, y: 0.0028908267, z: 0.0009929654}
-  m_Center: {x: -0.0000000027939677, y: 0.017496351, z: 0.002820801}
+  m_Size: {x: 0.0135771, y: 0.0034113117, z: 0.0011252321}
+  m_Center: {x: -0.0000381751, y: 0.017305693, z: 0.0028869342}
 --- !u!65 &7298399289550727806
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3394,8 +4242,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01868775, y: 0.009937731, z: 0.008269886}
-  m_Center: {x: -0.0000000030267984, y: 0.010759934, z: 0.0030353891}
+  m_Size: {x: 0.018687751, y: 0.004910459, z: 0.004649469}
+  m_Center: {x: -0.0000000026526241, y: 0.011081506, z: 0.0031500396}
 --- !u!65 &7298399289615082038
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3511,8 +4359,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.016816258, y: 0.0016419227, z: 0.00041527432}
-  m_Center: {x: -0.0000000023283064, y: -0.0053237816, z: 0.008007044}
+  m_Size: {x: 0.021065913, y: 0.0018707766, z: 0.0004141649}
+  m_Center: {x: 0.0012631193, y: -0.005438208, z: 0.008007593}
 --- !u!65 &7298399289697994240
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3524,8 +4372,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.011966143, y: 0.0014850663, z: 0.001487826}
-  m_Center: {x: -0.000000002561137, y: 0.018741451, z: 0.0031808969}
+  m_Size: {x: 0.013158487, y: 0.0016737491, z: 0.0018714715}
+  m_Center: {x: -0.000029189323, y: 0.01883579, z: 0.00337272}
 --- !u!65 &7298399289702093765
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3578,18 +4426,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.012657749, y: 0.011222905, z: 0.0023193131}
   m_Center: {x: -0.0000000020954758, y: -0.013705316, z: 0.006819296}
---- !u!114 &7298399289720439673
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 459138703}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3357acb79b47b2649b0b232838a909ee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &7298399289737542880
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3640,8 +4476,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.010499389, y: 0.005834176, z: 0.0029326123}
-  m_Center: {x: -0.0000000023283064, y: 0.015238511, z: 0.009878576}
+  m_Size: {x: 0.008744426, y: 0.00703158, z: 0.0017715297}
+  m_Center: {x: 0.00026741053, y: 0.01583719, z: 0.009460321}
 --- !u!65 &7298399289786801309
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3731,8 +4567,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.0150056835, y: 0.002033054, z: 0.000359422}
-  m_Center: {x: -0.0000000023283064, y: 0.0074721645, z: 0.0070483168}
+  m_Size: {x: 0.015819807, y: 0.004335848, z: 0.0015107793}
+  m_Center: {x: -0.0004070646, y: 0.0073719835, z: 0.0070765647}
 --- !u!65 &7298399289914053521
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3783,8 +4619,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.018059261, y: 0.00925641, z: 0.0067779133}
-  m_Center: {x: -0.0012551384, y: -0.012954029, z: 0.003483454}
+  m_Size: {x: 0.015693665, y: 0.005755478, z: 0.005464427}
+  m_Center: {x: -0.000072336494, y: -0.012621824, z: 0.0028267112}
 --- !u!65 &7298399289943402571
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3887,8 +4723,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01293082, y: 0.00265694, z: 0.00062258774}
-  m_Center: {x: -0.0000000020954758, y: -0.018810095, z: 0.0015955674}
+  m_Size: {x: 0.013417159, y: 0.0027021724, z: 0.00082698395}
+  m_Center: {x: 0.00007837069, y: -0.018832708, z: 0.0015678698}
 --- !u!65 &7298399289989992196
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3991,8 +4827,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.008704902, y: 0.0007442477, z: 0.0019610038}
-  m_Center: {x: 0, y: -0.019499656, z: 0.0034163406}
+  m_Size: {x: 0.009105929, y: 0.002121035, z: 0.0019610042}
+  m_Center: {x: -0.00007869165, y: -0.02018805, z: 0.0034163406}
 --- !u!65 &7298399290063891605
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4017,8 +4853,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.005863103, y: 0.0005374345, z: 0.0008172633}
-  m_Center: {x: 1.1641532e-10, y: -0.0194894, z: 0.00478638}
+  m_Size: {x: 0.0076160403, y: 0.0012855942, z: 0.0014437193}
+  m_Center: {x: 0.000047642396, y: -0.019863475, z: 0.004901384}
 --- !u!65 &7298399290069582041
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4108,8 +4944,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01868775, y: 0.009937731, z: 0.008269886}
-  m_Center: {x: -0.0000000023283064, y: -0.012530616, z: 0.0030353898}
+  m_Size: {x: 0.015495727, y: 0.004183575, z: 0.0051190495}
+  m_Center: {x: 0.001596012, y: -0.0119505245, z: 0.0030275472}
 --- !u!65 &7298399290166773447
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4199,8 +5035,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.010503779, y: 0.0043592313, z: 0.0023278887}
-  m_Center: {x: -0.0000000023283064, y: 0.0148837585, z: 0.009571204}
+  m_Size: {x: 0.013544887, y: 0.0030849548, z: 0.0033204225}
+  m_Center: {x: -0.00051661016, y: 0.014246621, z: 0.010067469}
 --- !u!65 &7298399290320197759
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4277,8 +5113,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01293736, y: 0.02222922, z: 0.0034925689}
-  m_Center: {x: -0.0000000023283064, y: 0.003512126, z: 0.009419837}
+  m_Size: {x: 0.016226918, y: 0.015087879, z: 0.0034261849}
+  m_Center: {x: 0.00031566323, y: 0.002170452, z: 0.00972916}
 --- !u!65 &7298399290420368128
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4381,8 +5217,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01868775, y: 0.009937731, z: 0.008269886}
-  m_Center: {x: -0.000000002800782, y: 0.009838666, z: 0.0030363349}
+  m_Size: {x: 0.016750855, y: 0.0052267043, z: 0.005714364}
+  m_Center: {x: 0.0009684629, y: 0.0107308645, z: 0.0028575337}
 --- !u!65 &7298399290497520450
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4420,8 +5256,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01805926, y: 0.00925641, z: 0.006777913}
-  m_Center: {x: -0.0000000030267984, y: 0.0107570235, z: 0.0030285344}
+  m_Size: {x: 0.01741412, y: 0.005116777, z: 0.0056444095}
+  m_Center: {x: 0.00032257, y: 0.01055153, z: 0.0030173934}
 --- !u!65 &7298399290543234070
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4459,8 +5295,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.013719417, y: 0.0032276087, z: 0.00086087483}
-  m_Center: {x: -0.0000000016298145, y: -0.017025275, z: 0.005740512}
+  m_Size: {x: 0.014792583, y: 0.0048532574, z: 0.0012093021}
+  m_Center: {x: -0.000042364256, y: -0.017188491, z: 0.005914724}
 --- !u!65 &7298399290625391645
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4472,8 +5308,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.015079041, y: 0.0020309621, z: 0.00039130863}
-  m_Center: {x: 0, y: -0.00043162276, z: 0.0068185064}
+  m_Size: {x: 0.01571064, y: 0.0028953357, z: 0.0007827136}
+  m_Center: {x: -0.0003157997, y: -0.000338946, z: 0.0068186983}
 --- !u!65 &7298399290631370708
 BoxCollider:
   m_ObjectHideFlags: 0
