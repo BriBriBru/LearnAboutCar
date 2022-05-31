@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -291,6 +291,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 171774284}
   m_CullTransparentMesh: 0
+--- !u!1 &227840641 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3899898912765377801, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &227840644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227840641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: "Voici le moteur, \xE9l\xE9ment principale sous le capot qui permet
+    de faire rouler la voiture. Il existe plusieurs type de moteurs : essence, diesel,
+    hybrid ou encore \xE9lectrique."
+  descriptionText: {fileID: 389050947}
 --- !u!1 &389050945
 GameObject:
   m_ObjectHideFlags: 0
@@ -909,6 +931,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3899898912765377801, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 8092775274138270724, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: descriptionText
@@ -941,6 +968,12 @@ PrefabInstance:
       objectReference: {fileID: 389050947}
     - target: {fileID: 8092775274534684552, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
+      propertyPath: description
+      value: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+        et une meilleur repartition de l'air autour de la voiture"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8092775274534684552, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
       propertyPath: descriptionText
       value: 
       objectReference: {fileID: 389050947}
@@ -954,6 +987,12 @@ PrefabInstance:
       propertyPath: descriptionText
       value: 
       objectReference: {fileID: 389050947}
+    - target: {fileID: 8092775274723795213, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: description
+      value: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+        et une meilleur repartition de l'air autour de la voiture"
+      objectReference: {fileID: 0}
     - target: {fileID: 8092775274723795213, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: descriptionText
@@ -1026,6 +1065,12 @@ PrefabInstance:
       objectReference: {fileID: 389050947}
     - target: {fileID: 8092775275502244067, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
+      propertyPath: description
+      value: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+        et une meilleur repartition de l'air autour de la voiture"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8092775275502244067, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
       propertyPath: descriptionText
       value: 
       objectReference: {fileID: 389050947}
@@ -1049,6 +1094,12 @@ PrefabInstance:
       propertyPath: descriptionText
       value: 
       objectReference: {fileID: 389050947}
+    - target: {fileID: 8092775275675632514, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: description
+      value: "Le diffuseur arri\xE8re permet d'avoir un meilleur a\xE9rodynamisme
+        et une meilleur repartition de l'air autour de la voiture"
+      objectReference: {fileID: 0}
     - target: {fileID: 8092775275675632514, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: descriptionText
