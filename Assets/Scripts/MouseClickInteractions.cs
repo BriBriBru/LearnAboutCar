@@ -47,7 +47,7 @@ public class MouseClickInteractions : MonoBehaviour
         if (Input.GetMouseButtonDown(1))
         {
             descriptionPanel.SetActive(false);
-            shootingSight.SetActive(true); 
+            shootingSight.SetActive(true);
         }
     }
 
