@@ -148,6 +148,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &49619111
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 49619109}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -9.01798e-22, y: 0.0000014305115, z: 1.0646513}
 --- !u!1 &74256639
 GameObject:
   m_ObjectHideFlags: 0
@@ -266,6 +279,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &94163345
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94163343}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000015258789, y: -0.0000009536743, z: 1.0646513}
 --- !u!1 &171774284
 GameObject:
   m_ObjectHideFlags: 0
@@ -443,6 +469,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &428041733
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428041731}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.0039587035, z: 0.5231751}
 --- !u!1 &451953423 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1528064100906327351, guid: 444eda93c574a254eac3003e659bdee7,
@@ -481,8 +520,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "La culasse est la partie sup\xE9rieure d'un moteur \xE0 combustion
+    interne qui permet de fermer les chambres de combustion. Il constitue la fermeture
+    sup\xE9rieure du bloc moteur et dans les moteurs les soupapes y sont assises,
+    perc\xE9es \xE0 cet effet.  La culasse a une double paroi pour permettre la circulation
+    du liquide de refroidissement. Si le moteur \xE0 combustion interne est un allumage
+    par allumage ( moteur Otto), il a des trous filet\xE9s o\xF9 se trouvent les
+    bougies d'allumage. En cas d'allumage par compression (moteur diesel) il dispose
+    en revanche des trous pour les injecteurs."
   descriptionText: {fileID: 389050947}
+--- !u!65 &512451773
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 512451771}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8673965, y: 2.3024695, z: 2.8756993}
+  m_Center: {x: 0.17950821, y: 0.0000010043581, z: 0.34013423}
 --- !u!1 &632558820 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8470830577045274109, guid: 444eda93c574a254eac3003e659bdee7,
@@ -521,6 +580,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newPosition: {x: 0, y: 0, z: 0}
+--- !u!65 &632558823
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632558820}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000030517578, y: -0.00000071525574, z: 1.0646513}
 --- !u!1 &680320104 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2389410329284295057, guid: 444eda93c574a254eac3003e659bdee7,
@@ -544,6 +616,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &680320106
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 680320104}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11426727, y: 0.0039587035, z: 0.5231751}
 --- !u!1 &706196663 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3994063162287290873, guid: 444eda93c574a254eac3003e659bdee7,
@@ -568,6 +653,19 @@ MonoBehaviour:
     d\xE9termin\xE9s. Cette enceinte est con\xE7ue pour obtenir, \xE0 partir des
     gaz issus de la combustion, un travail ou une force, avant qu'ils ne soient \xE9vacu\xE9s."
   descriptionText: {fileID: 389050947}
+--- !u!65 &706196665
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 706196663}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 16.24437, y: 1.9795742, z: 6.700209}
+  m_Center: {x: -8.318106, y: -0.010212664, z: 2.350103}
 --- !u!1 &706879062 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5094172425158048564, guid: 444eda93c574a254eac3003e659bdee7,
@@ -586,8 +684,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "La culasse est la partie sup\xE9rieure d'un moteur \xE0 combustion
+    interne qui permet de fermer les chambres de combustion. Il constitue la fermeture
+    sup\xE9rieure du bloc moteur et dans les moteurs les soupapes y sont assises,
+    perc\xE9es \xE0 cet effet.  La culasse a une double paroi pour permettre la circulation
+    du liquide de refroidissement. Si le moteur \xE0 combustion interne est un allumage
+    par allumage ( moteur Otto), il a des trous filet\xE9s o\xF9 se trouvent les
+    bougies d'allumage. En cas d'allumage par compression (moteur diesel) il dispose
+    en revanche des trous pour les injecteurs."
   descriptionText: {fileID: 389050947}
+--- !u!65 &706879064
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 706879062}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8673965, y: 2.3024685, z: 2.8756993}
+  m_Center: {x: 0.17950821, y: 0.0000006355904, z: 0.3401352}
 --- !u!1 &725344383 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8234788439000090136, guid: 444eda93c574a254eac3003e659bdee7,
@@ -616,6 +734,19 @@ MonoBehaviour:
     en rotation ; c'est la partie interm\xE9diaire \xE9lastique qui assure ce mouvement,
     \xE9vitant les efforts et les battements excessifs de la courroie."
   descriptionText: {fileID: 389050947}
+--- !u!65 &725344385
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725344383}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.458738, y: 1.4587387, z: 2.4893706}
+  m_Center: {x: -0.30161518, y: 0.109827906, z: 0.55940664}
 --- !u!1 &770087744 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 288176500284444564, guid: 444eda93c574a254eac3003e659bdee7,
@@ -634,8 +765,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: Bout de la culasse, permet de fixer la culasse au reste du moteur.
   descriptionText: {fileID: 389050947}
+--- !u!65 &770087746
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 770087744}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.736154, y: 1.9830065, z: 2.4987195}
+  m_Center: {x: -0.28956413, y: -0.02228727, z: 0.2192057}
 --- !u!1 &818314183 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4702608876526072588, guid: 444eda93c574a254eac3003e659bdee7,
@@ -654,8 +798,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: Bout de la culasse, permet de fixer la culasse au reste du moteur.
   descriptionText: {fileID: 389050947}
+--- !u!65 &818314185
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818314183}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.736154, y: 1.9830067, z: 2.4987197}
+  m_Center: {x: -0.28957176, y: -0.022285346, z: 0.21920478}
 --- !u!1 &957861155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6574369518810373562, guid: 444eda93c574a254eac3003e659bdee7,
@@ -674,8 +831,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Aussi connu sous le nom de r\xE9partiteur, le collecteur d'admission
+    est un \xE9l\xE9ment cl\xE9 d'un moteur \xE0 combustion. Il se situe entre le
+    filtre \xE0 air et la culasse du moteur. Il permet la r\xE9partition de l'air
+    entrant dans l'ensemble des cylindres du moteur : l'air se divise en plusieurs
+    voies selon le nombre de cylindre pr\xE9sent. Au sein de chaque cylindre, la
+    combustion se fait avec le carburant de votre v\xE9hicule."
   descriptionText: {fileID: 389050947}
+--- !u!65 &957861157
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 957861155}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 87.204796, y: 13.490034, z: 26.857216}
+  m_Center: {x: 44.026016, y: -1.0254818, z: -7.5961237}
 --- !u!1 &976776770 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2037416433415806994, guid: 444eda93c574a254eac3003e659bdee7,
@@ -699,6 +874,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &976776772
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976776770}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.0039585843, z: 0.5231751}
 --- !u!1 &1032389018 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3126735041406496767, guid: 444eda93c574a254eac3003e659bdee7,
@@ -722,6 +910,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1032389020
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032389018}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11426727, y: 0.003960134, z: 0.5231751}
 --- !u!1 &1155364878 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4140380677568898134, guid: 444eda93c574a254eac3003e659bdee7,
@@ -740,8 +941,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Aussi connu sous le nom de r\xE9partiteur, le collecteur d'admission
+    est un \xE9l\xE9ment cl\xE9 d'un moteur \xE0 combustion. Il se situe entre le
+    filtre \xE0 air et la culasse du moteur. Il permet la r\xE9partition de l'air
+    entrant dans l'ensemble des cylindres du moteur : l'air se divise en plusieurs
+    voies selon le nombre de cylindre pr\xE9sent. Au sein de chaque cylindre, la
+    combustion se fait avec le carburant de votre v\xE9hicule."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1155364880
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1155364878}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 87.88801, y: 33.986507, z: 17.198961}
+  m_Center: {x: 44.367622, y: -14.9463005, z: -2.2610128}
 --- !u!1 &1183487797 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2857143394674943024, guid: 444eda93c574a254eac3003e659bdee7,
@@ -780,6 +999,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newPosition: {x: 0, y: 0, z: 0}
+--- !u!65 &1183487800
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183487797}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000015258789, y: -0.00000047683713, z: 1.0646513}
 --- !u!1 &1322872643 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1644432749785136015, guid: 444eda93c574a254eac3003e659bdee7,
@@ -805,6 +1037,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1322872645
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322872643}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -9.01798e-22, y: -0.00000071525574, z: 1.0646513}
 --- !u!1 &1335169014 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4370199709346951545, guid: 444eda93c574a254eac3003e659bdee7,
@@ -830,6 +1075,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1335169016
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335169014}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000015258789, y: 0.0000011920929, z: 1.0646513}
 --- !u!1 &1545579841 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 223889326525618693, guid: 444eda93c574a254eac3003e659bdee7,
@@ -853,6 +1111,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1545579843
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545579841}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.003960134, z: 0.5231751}
 --- !u!1 &1566350074
 GameObject:
   m_ObjectHideFlags: 0
@@ -953,6 +1224,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1659501158
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659501156}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.003960015, z: 0.5231751}
 --- !u!1 &1705050343 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8883675035609280263, guid: 444eda93c574a254eac3003e659bdee7,
@@ -976,6 +1260,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1705050345
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705050343}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.003960134, z: 0.5231751}
 --- !u!1 &1772740194 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6305572988402232256, guid: 444eda93c574a254eac3003e659bdee7,
@@ -1001,6 +1298,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1772740196
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1772740194}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000015258789, y: 0.0000011920929, z: 1.0646513}
 --- !u!95 &1844005070 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 8092775275019148050, guid: 444eda93c574a254eac3003e659bdee7,
@@ -1030,6 +1340,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1848716907
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1848716905}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.0039587035, z: 0.5231751}
 --- !u!1 &1904393533 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3231622848227767045, guid: 444eda93c574a254eac3003e659bdee7,
@@ -1068,6 +1391,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newPosition: {x: 0, y: 0, z: 0}
+--- !u!65 &1904393536
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904393533}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000015258789, y: -0.0000009536743, z: 1.0646513}
 --- !u!1 &1906396744 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2245242340282495740, guid: 444eda93c574a254eac3003e659bdee7,
@@ -1093,6 +1429,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1906396746
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1906396744}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000030517578, y: 0.0000011920929, z: 1.0646513}
 --- !u!1 &1917826954
 GameObject:
   m_ObjectHideFlags: 0
@@ -1183,6 +1532,19 @@ MonoBehaviour:
     d\xE9termin\xE9s. Cette enceinte est con\xE7ue pour obtenir, \xE0 partir des
     gaz issus de la combustion, un travail ou une force, avant qu'ils ne soient \xE9vacu\xE9s."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1930728950
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1930728948}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 16.244373, y: 1.9795754, z: 6.700215}
+  m_Center: {x: -8.318077, y: -0.010212931, z: 2.35011}
 --- !u!1 &1950144833 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7799560960164399260, guid: 444eda93c574a254eac3003e659bdee7,
@@ -1206,6 +1568,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &1950144835
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950144833}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.003958465, z: 0.5231751}
 --- !u!1 &2023829288
 GameObject:
   m_ObjectHideFlags: 0
@@ -1409,6 +1784,19 @@ MonoBehaviour:
     de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
     rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
+--- !u!65 &2075917654
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075917652}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.483358, y: 1.4833401, z: 1.1691563}
+  m_Center: {x: -0.11425201, y: 0.003960134, z: 0.5231751}
 --- !u!1 &2080759458 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6288861102696098348, guid: 444eda93c574a254eac3003e659bdee7,
@@ -1434,6 +1822,19 @@ MonoBehaviour:
     peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
     ou des avions."
   descriptionText: {fileID: 389050947}
+--- !u!65 &2080759460
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080759458}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.000001, y: 2.0000007, z: 4.12931}
+  m_Center: {x: -0.000015258789, y: 0.0000014305115, z: 1.0646513}
 --- !u!1001 &1709582904287052944
 PrefabInstance:
   m_ObjectHideFlags: 0
