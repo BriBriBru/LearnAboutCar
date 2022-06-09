@@ -141,11 +141,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!1 &74256639
 GameObject:
@@ -258,11 +259,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!1 &171774284
 GameObject:
@@ -436,7 +438,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &451953423 stripped
 GameObject:
@@ -496,11 +501,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!114 &632558822
 MonoBehaviour:
@@ -533,7 +539,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &706196663 stripped
 GameObject:
@@ -553,7 +562,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Une chambre de combustion est une enceinte capable de r\xE9sister
+    \xE0 des changements de pression et de temp\xE9rature brusques, dans laquelle
+    on d\xE9clenche volontairement une combustion entre des \xE9l\xE9ments chimiques
+    d\xE9termin\xE9s. Cette enceinte est con\xE7ue pour obtenir, \xE0 partir des
+    gaz issus de la combustion, un travail ou une force, avant qu'ils ne soient \xE9vacu\xE9s."
   descriptionText: {fileID: 389050947}
 --- !u!1 &706879062 stripped
 GameObject:
@@ -593,14 +606,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 'The Damper pulley has two complementary functions: like a standard
-    pulley, it transmits the engine''s rotational movement via the accessory belt. 
-    It also smoothes out the transmission jerks: since the engine provides cyclic
-    forces and the driven parts oppose forces that are also irregular (e.g. variable
-    resistance of the alternator according to the electrical intensity to be delivered),
-    the hub and the pulley part attenuate this phenomenon by shifting in rotation;
-    it is the elastic intermediate part that ensures this movement, avoiding excessive
-    efforts and beats of the belt.'
+  description: "La poulie amortisseuse a deux fonctions compl\xE9mentaires : comme
+    une poulie standard, elle transmet le mouvement de rotation du moteur via la
+    courroie d'accessoires.  Elle att\xE9nue \xE9galement les \xE0-coups de la transmission
+    : comme le moteur fournit des forces cycliques et que les pi\xE8ces entra\xEEn\xE9es
+    opposent des forces elles aussi irr\xE9guli\xE8res (ex. r\xE9sistance variable
+    de l'alternateur en fonction de l'intensit\xE9 \xE9lectrique \xE0 d\xE9livrer),
+    le moyeu et la partie poulie att\xE9nuent ce ph\xE9nom\xE8ne en se d\xE9calant
+    en rotation ; c'est la partie interm\xE9diaire \xE9lastique qui assure ce mouvement,
+    \xE9vitant les efforts et les battements excessifs de la courroie."
   descriptionText: {fileID: 389050947}
 --- !u!1 &770087744 stripped
 GameObject:
@@ -680,7 +694,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1032389018 stripped
 GameObject:
@@ -700,7 +717,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1155364878 stripped
 GameObject:
@@ -740,11 +760,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!114 &1183487799
 MonoBehaviour:
@@ -777,11 +798,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1335169014 stripped
 GameObject:
@@ -801,11 +823,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1545579841 stripped
 GameObject:
@@ -825,7 +848,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1566350074
 GameObject:
@@ -922,7 +948,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1705050343 stripped
 GameObject:
@@ -942,7 +971,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1772740194 stripped
 GameObject:
@@ -962,11 +994,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!95 &1844005070 stripped
 Animator:
@@ -992,7 +1025,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1904393533 stripped
 GameObject:
@@ -1012,11 +1048,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!114 &1904393535
 MonoBehaviour:
@@ -1049,11 +1086,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1917826954
 GameObject:
@@ -1139,7 +1177,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Une chambre de combustion est une enceinte capable de r\xE9sister
+    \xE0 des changements de pression et de temp\xE9rature brusques, dans laquelle
+    on d\xE9clenche volontairement une combustion entre des \xE9l\xE9ments chimiques
+    d\xE9termin\xE9s. Cette enceinte est con\xE7ue pour obtenir, \xE0 partir des
+    gaz issus de la combustion, un travail ou une force, avant qu'ils ne soient \xE9vacu\xE9s."
   descriptionText: {fileID: 389050947}
 --- !u!1 &1950144833 stripped
 GameObject:
@@ -1159,7 +1201,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &2023829288
 GameObject:
@@ -1359,7 +1404,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carburateur est un organe du moteur \xE0 combustion interne essence
+    ou ethanol et aussi des chaudi\xE8res \xE0 carburants liquides. Cet organe permet
+    de pr\xE9parer un m\xE9lange d'air (le comburant) et de carburant, ayant le bon
+    rapport de carburant/air, qui va parfaitement bruler dans la chambre de combustion."
   descriptionText: {fileID: 389050947}
 --- !u!1 &2080759458 stripped
 GameObject:
@@ -1379,11 +1427,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: The displacement of an internal combustion engine indicates the amount
-    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
-    displacement engine is one that has a single cylinder, such as a chainsaw engine.
-    At the same time, they can have several cylinders, up to 12 or 16, in the case
-    of cars or airplanes.
+  description: "La cylindr\xE9e d'un moteur \xE0 combustion interne indique la quantit\xE9
+    de gaz (un m\xE9lange d'air et de carburant) qui peut \xEAtre br\xFBl\xE9e dans
+    les cylindres. Un moteur \xE0 cylindr\xE9e unitaire est un moteur qui poss\xE8de
+    un seul cylindre, comme le moteur d'une tron\xE7onneuse. En m\xEAme temps, ils
+    peuvent avoir plusieurs cylindres, jusqu'\xE0 12 ou 16, dans le cas des voitures
+    ou des avions."
   descriptionText: {fileID: 389050947}
 --- !u!1001 &1709582904287052944
 PrefabInstance:
