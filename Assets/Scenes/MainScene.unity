@@ -123,6 +123,30 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &49619109 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6067407771927253832, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &49619110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 49619109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
 --- !u!1 &74256639
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,6 +240,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &94163343 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3588367569076283584, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &94163344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94163343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
 --- !u!1 &171774284
 GameObject:
   m_ObjectHideFlags: 0
@@ -291,28 +339,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 171774284}
   m_CullTransparentMesh: 0
---- !u!1 &227840641 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3899898912765377801, guid: 444eda93c574a254eac3003e659bdee7,
-    type: 3}
-  m_PrefabInstance: {fileID: 8092775275504194524}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &227840644
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 227840641}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  description: "Voici le moteur, \xE9l\xE9ment principale sous le capot qui permet
-    de faire rouler la voiture. Il existe plusieurs type de moteurs : essence, diesel,
-    hybrid ou encore \xE9lectrique."
-  descriptionText: {fileID: 389050947}
 --- !u!1 &389050945
 GameObject:
   m_ObjectHideFlags: 0
@@ -392,6 +418,415 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 389050945}
   m_CullTransparentMesh: 1
+--- !u!1 &428041731 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4475766537812197413, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &428041732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428041731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &451953423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1528064100906327351, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &451953424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 451953423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &512451771 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4323932573106145056, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &512451772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 512451771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &632558820 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8470830577045274109, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &632558821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632558820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
+--- !u!114 &632558822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632558820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844e2813bf0479e45a9b5d0a48cea049, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newPosition: {x: 0, y: 0, z: 0}
+--- !u!1 &680320104 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2389410329284295057, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &680320105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 680320104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &706196663 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3994063162287290873, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &706196664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 706196663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &706879062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5094172425158048564, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &706879063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 706879062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &725344383 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8234788439000090136, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &725344384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725344383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 'The Damper pulley has two complementary functions: like a standard
+    pulley, it transmits the engine''s rotational movement via the accessory belt. 
+    It also smoothes out the transmission jerks: since the engine provides cyclic
+    forces and the driven parts oppose forces that are also irregular (e.g. variable
+    resistance of the alternator according to the electrical intensity to be delivered),
+    the hub and the pulley part attenuate this phenomenon by shifting in rotation;
+    it is the elastic intermediate part that ensures this movement, avoiding excessive
+    efforts and beats of the belt.'
+  descriptionText: {fileID: 389050947}
+--- !u!1 &770087744 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 288176500284444564, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &770087745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 770087744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &818314183 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4702608876526072588, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &818314184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818314183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &957861155 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6574369518810373562, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &957861156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 957861155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &976776770 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2037416433415806994, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &976776771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 976776770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1032389018 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3126735041406496767, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1032389019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032389018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1155364878 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4140380677568898134, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1155364879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1155364878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1183487797 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2857143394674943024, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1183487798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183487797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
+--- !u!114 &1183487799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183487797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844e2813bf0479e45a9b5d0a48cea049, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newPosition: {x: 0, y: 0, z: 0}
+--- !u!1 &1322872643 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1644432749785136015, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1322872644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322872643}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1335169014 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4370199709346951545, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1335169015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335169014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1545579841 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 223889326525618693, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1545579842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545579841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1566350074
 GameObject:
   m_ObjectHideFlags: 0
@@ -469,12 +904,157 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566350074}
   m_CullTransparentMesh: 1
+--- !u!1 &1659501156 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1466430310373833623, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1659501157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659501156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1705050343 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8883675035609280263, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1705050344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705050343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1772740194 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6305572988402232256, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1772740195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1772740194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
 --- !u!95 &1844005070 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 8092775275019148050, guid: 444eda93c574a254eac3003e659bdee7,
     type: 3}
   m_PrefabInstance: {fileID: 8092775275504194524}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1848716905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4695188312608300520, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1848716906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1848716905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1904393533 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3231622848227767045, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1904393534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904393533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
+--- !u!114 &1904393535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904393533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844e2813bf0479e45a9b5d0a48cea049, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newPosition: {x: 0, y: 0, z: 0}
+--- !u!1 &1906396744 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2245242340282495740, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1906396745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1906396744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
 --- !u!1 &1917826954
 GameObject:
   m_ObjectHideFlags: 0
@@ -541,6 +1121,46 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1930728948 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 435333709833470519, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1930728949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1930728948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &1950144833 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7799560960164399260, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1950144834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950144833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
 --- !u!1 &2023829288
 GameObject:
   m_ObjectHideFlags: 0
@@ -721,6 +1341,50 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &2075917652 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4681855835079279935, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2075917653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075917652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  descriptionText: {fileID: 389050947}
+--- !u!1 &2080759458 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6288861102696098348, guid: 444eda93c574a254eac3003e659bdee7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8092775275504194524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2080759459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080759458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: The displacement of an internal combustion engine indicates the amount
+    of gas (a mixture of air and fuel) that can be burned in the cylinders. A unit
+    displacement engine is one that has a single cylinder, such as a chainsaw engine.
+    At the same time, they can have several cylinders, up to 12 or 16, in the case
+    of cars or airplanes.
+  descriptionText: {fileID: 389050947}
 --- !u!1001 &1709582904287052944
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -871,10 +1535,1070 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 10750721512484972, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 15860508333591909, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw19
+      objectReference: {fileID: 0}
+    - target: {fileID: 15860508333591909, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 25946033836983931, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 79711757618866357, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 147065980033621354, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 147680772630322670, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw14
+      objectReference: {fileID: 0}
+    - target: {fileID: 147680772630322670, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 179401136028566656, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.9540828
+      objectReference: {fileID: 0}
+    - target: {fileID: 179401136028566656, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.626881
+      objectReference: {fileID: 0}
+    - target: {fileID: 179401136028566656, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.94309705
+      objectReference: {fileID: 0}
+    - target: {fileID: 223889326525618693, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator10
+      objectReference: {fileID: 0}
+    - target: {fileID: 223889326525618693, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 247343018782001862, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
       value: Audi_RS6_with_engine
+      objectReference: {fileID: 0}
+    - target: {fileID: 247343018782001862, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 288176500284444564, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: engine cylinder head mold left
+      objectReference: {fileID: 0}
+    - target: {fileID: 288176500284444564, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 309111645831148597, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 318164760592541255, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 435333709833470519, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: combustion chamber left
+      objectReference: {fileID: 0}
+    - target: {fileID: 435333709833470519, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 439172024107649600, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 443786118050785961, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 463088141853650449, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 508461268036556873, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 518592644650432506, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 544383432032048279, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 545108691308881030, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 546952620465393408, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw14_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 546952620465393408, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 571977147323664078, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw18_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 571977147323664078, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 677160625958939146, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 732435787456537024, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 820649241394930396, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.137663
+      objectReference: {fileID: 0}
+    - target: {fileID: 820649241394930396, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 820649241394930396, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 830328377603015322, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.41815042
+      objectReference: {fileID: 0}
+    - target: {fileID: 830328377603015322, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 830328377603015322, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 864593292300261444, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5339161
+      objectReference: {fileID: 0}
+    - target: {fileID: 864593292300261444, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 864593292300261444, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3127313
+      objectReference: {fileID: 0}
+    - target: {fileID: 876134792003242554, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw16_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 876134792003242554, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 911794601729340746, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1001171279990030465, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.21362582
+      objectReference: {fileID: 0}
+    - target: {fileID: 1001171279990030465, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 1001171279990030465, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3037307
+      objectReference: {fileID: 0}
+    - target: {fileID: 1018558343324529514, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1024764396605066563, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037339332051438446, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1093075498894592054, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124770900864895111, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1137038668181022084, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7621665
+      objectReference: {fileID: 0}
+    - target: {fileID: 1137038668181022084, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 1137038668181022084, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145202075880595992, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.2416883
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145202075880595992, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145202075880595992, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3266764
+      objectReference: {fileID: 0}
+    - target: {fileID: 1203436196707241284, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw5_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 1203436196707241284, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1221134478960775380, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1267413377158995755, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.03002274
+      objectReference: {fileID: 0}
+    - target: {fileID: 1267413377158995755, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 1267413377158995755, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 1334017460602036313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.368343
+      objectReference: {fileID: 0}
+    - target: {fileID: 1334017460602036313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 1334017460602036313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.3011367
+      objectReference: {fileID: 0}
+    - target: {fileID: 1347197457475985523, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1364609387955831089, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.87136716
+      objectReference: {fileID: 0}
+    - target: {fileID: 1364609387955831089, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 1364609387955831089, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389771115001976318, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390685373420839251, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: part_engine2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390685373420839251, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1399761451282021712, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1425920090335723592, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446752259108916651, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1447736847024808697, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1462453235399113026, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1466430310373833623, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1466430310373833623, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481842469285718509, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.21892
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481842469285718509, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481842469285718509, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1528064100906327351, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carter
+      objectReference: {fileID: 0}
+    - target: {fileID: 1528064100906327351, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1644432749785136015, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1644432749785136015, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669168134221134664, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1680560218347725301, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1680560218347725301, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1722521908992447686, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1788210457196833285, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825299167826120489, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.21338224
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825299167826120489, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 1825299167826120489, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901769186432248543, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.13088
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901769186432248543, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901769186432248543, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 1938645007312990941, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1972672274794724815, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1985452014686886279, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2001279597917883471, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.787126
+      objectReference: {fileID: 0}
+    - target: {fileID: 2001279597917883471, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2001279597917883471, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 2037416433415806994, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2037416433415806994, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043619669261982741, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2054939627976849103, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064431767563288176, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064431767563288176, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2068097241958518435, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2078088706030055800, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2078088706030055800, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2100265526989806819, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.082826
+      objectReference: {fileID: 0}
+    - target: {fileID: 2100265526989806819, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 2100265526989806819, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9300788
+      objectReference: {fileID: 0}
+    - target: {fileID: 2136881978865429219, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145033241601575725, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4501522
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145033241601575725, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145033241601575725, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 2152709315365223583, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2167995446123043902, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176509721170777557, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2191909155098655440, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw13_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 2191909155098655440, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199499372874225719, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2245242340282495740, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2245242340282495740, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302201117588288131, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2308333699525874537, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2308333699525874537, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2326518159186562332, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.6578434
+      objectReference: {fileID: 0}
+    - target: {fileID: 2326518159186562332, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 2326518159186562332, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.307778
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339691624904526438, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.584013
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339691624904526438, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339691624904526438, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 2341842338673303911, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw4_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 2341842338673303911, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2351301063217620870, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2351301063217620870, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367401818245281043, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw10_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367401818245281043, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2389410329284295057, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2389410329284295057, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2516161462259670679, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2537102819227351252, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2563494534431490163, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.137663
+      objectReference: {fileID: 0}
+    - target: {fileID: 2563494534431490163, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2563494534431490163, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580037116742414862, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.787126
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580037116742414862, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580037116742414862, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 2616114886039689622, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630716450658735345, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2639320435577970892, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2646860768236971949, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2648393065830167084, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715250716593905081, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715250716593905081, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2726882088842954314, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2827213816832458521, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2846505909079928379, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2853237797396278364, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw20_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 2853237797396278364, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2857143394674943024, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2857143394674943024, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2894638908091525719, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2928099124199587280, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2941489414708375747, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5243518
+      objectReference: {fileID: 0}
+    - target: {fileID: 2941489414708375747, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 2941489414708375747, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 3001651894688671891, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126735041406496767, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126735041406496767, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130268836695782904, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.41815042
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130268836695782904, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130268836695782904, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 3139828078087213335, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw6_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 3139828078087213335, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3231622848227767045, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3231622848227767045, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3237810331643268150, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248994164132142676, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257407010962199772, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw9_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257407010962199772, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3297885052740310346, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.21338224
+      objectReference: {fileID: 0}
+    - target: {fileID: 3297885052740310346, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 3297885052740310346, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302406795744542016, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3394380098813374599, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3470003897545940825, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw11_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 3470003897545940825, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539805308723167871, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3559264151351964650, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577766523444454827, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3392686
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577766523444454827, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577766523444454827, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.2979338
+      objectReference: {fileID: 0}
+    - target: {fileID: 3588367569076283584, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3588367569076283584, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3590205444775272318, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3590205444775272318, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3637288819355053607, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5243518
+      objectReference: {fileID: 0}
+    - target: {fileID: 3637288819355053607, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 3637288819355053607, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 3656194776921410450, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664315652665432770, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3669664948882036982, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3782602718098837133, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3822545338003473277, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3834222388690188501, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -931,10 +2655,1350 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3870184696741655972, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3871851953859496793, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884878467999150211, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.9973974
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884878467999150211, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.427523
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884878467999150211, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5848715
+      objectReference: {fileID: 0}
+    - target: {fileID: 3893983478910189666, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4501522
+      objectReference: {fileID: 0}
+    - target: {fileID: 3893983478910189666, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 3893983478910189666, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899898912765377801, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3899898912765377801, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_TagString
       value: Car Part
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980102925957151241, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.66527
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980102925957151241, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980102925957151241, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 3984759157461517044, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.0418587
+      objectReference: {fileID: 0}
+    - target: {fileID: 3984759157461517044, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.113949
+      objectReference: {fileID: 0}
+    - target: {fileID: 3984759157461517044, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.204527
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994063162287290873, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: combustion chamber right
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994063162287290873, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996308919860442142, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996308919860442142, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4062479454369601371, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4071282472329296579, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086489628484758339, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.3504047
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086489628484758339, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9199136
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086489628484758339, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.1772075
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089048398099867787, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.399256
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089048398099867787, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.177361
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089048398099867787, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.0230167
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125350109684203648, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0049355
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125350109684203648, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 4125350109684203648, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.320307
+      objectReference: {fileID: 0}
+    - target: {fileID: 4140380677568898134, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: intake manifold left
+      objectReference: {fileID: 0}
+    - target: {fileID: 4140380677568898134, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4192819186545874747, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200974805682547548, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239976942560653661, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2576566
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239976942560653661, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239976942560653661, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 4272294228245510925, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.126884
+      objectReference: {fileID: 0}
+    - target: {fileID: 4272294228245510925, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 4272294228245510925, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290035083895785094, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1112796
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290035083895785094, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290035083895785094, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323932573106145056, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder head right
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323932573106145056, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353163786255157217, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: part_engine4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353163786255157217, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4365482351141724528, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4365482351141724528, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4370199709346951545, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4370199709346951545, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4391863578987598469, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw3_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 4391863578987598469, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412361941950448469, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.868383
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412361941950448469, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412361941950448469, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4419414190599415731, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472959322939468957, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4475766537812197413, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4475766537812197413, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4627644588733276690, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw19_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 4627644588733276690, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672105842095432119, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7621665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672105842095432119, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 4672105842095432119, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681855835079279935, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681855835079279935, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4695188312608300520, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4695188312608300520, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4702608876526072588, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: engine cylinder head mold right
+      objectReference: {fileID: 0}
+    - target: {fileID: 4702608876526072588, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4702648010130884014, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4740519883082051898, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4799458331960053925, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803472859073263301, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4853975480524261074, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4853975480524261074, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888031705133680385, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888031705133680385, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4889692761746267452, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965900687909238862, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4970745520320812149, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.029413
+      objectReference: {fileID: 0}
+    - target: {fileID: 4970745520320812149, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 4970745520320812149, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3101327
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987547152177103403, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5007113883034469910, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.231328
+      objectReference: {fileID: 0}
+    - target: {fileID: 5007113883034469910, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.190155
+      objectReference: {fileID: 0}
+    - target: {fileID: 5007113883034469910, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.1070433
+      objectReference: {fileID: 0}
+    - target: {fileID: 5022231353765981631, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3443371
+      objectReference: {fileID: 0}
+    - target: {fileID: 5022231353765981631, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 5022231353765981631, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2820158
+      objectReference: {fileID: 0}
+    - target: {fileID: 5034852966279341324, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.085239
+      objectReference: {fileID: 0}
+    - target: {fileID: 5034852966279341324, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.506793
+      objectReference: {fileID: 0}
+    - target: {fileID: 5034852966279341324, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5504987
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094172425158048564, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder head left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094172425158048564, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136950455805436164, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137527310131928464, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5140743937187139793, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156560485204752868, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158724804272824482, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0052218
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158724804272824482, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158724804272824482, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 5229746974987253090, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276902227088147491, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5310112585352022826, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.6646347
+      objectReference: {fileID: 0}
+    - target: {fileID: 5310112585352022826, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 5310112585352022826, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 5322956115182989275, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5322956115182989275, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5340626522083742888, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5462848639060159394, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5466867298213167739, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw7_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 5466867298213167739, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470158196642836628, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5497911146485350587, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5538203339948897378, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.66527
+      objectReference: {fileID: 0}
+    - target: {fileID: 5538203339948897378, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 5538203339948897378, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 5544316808896002794, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.208141
+      objectReference: {fileID: 0}
+    - target: {fileID: 5544316808896002794, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 5544316808896002794, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 5601846980377599344, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5609174643275941110, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5669294761674201666, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5712854093779252576, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720260511768240124, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5721434422781244021, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5728535908323164526, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5821823802892976542, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.26216945
+      objectReference: {fileID: 0}
+    - target: {fileID: 5821823802892976542, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 5821823802892976542, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2902896
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836219391891320920, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836219391891320920, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5902567693975042748, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913587660310614760, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.6646347
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913587660310614760, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913587660310614760, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 5960516284790252900, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978191498239607286, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6022983501893712587, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.478245
+      objectReference: {fileID: 0}
+    - target: {fileID: 6022983501893712587, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9199136
+      objectReference: {fileID: 0}
+    - target: {fileID: 6022983501893712587, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.2366548
+      objectReference: {fileID: 0}
+    - target: {fileID: 6067407771927253832, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6067407771927253832, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6198570441511988681, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: part_engine1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6198570441511988681, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206134302967717514, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6231665762123216512, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6231665762123216512, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6288861102696098348, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6288861102696098348, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6305572988402232256, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6305572988402232256, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337082011794506251, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6405028996312079088, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412030177271644930, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.23662
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412030177271644930, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412030177271644930, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.3107584
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432429900796478565, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6433538934284883191, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw2_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6433538934284883191, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510387848457923852, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.0243447
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510387848457923852, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 6510387848457923852, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2942147
+      objectReference: {fileID: 0}
+    - target: {fileID: 6512175771034690094, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw17_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6512175771034690094, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546975794813918595, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6568484009388621354, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6574369518810373562, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: intake manifold right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6574369518810373562, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6579983563507118067, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.26723775
+      objectReference: {fileID: 0}
+    - target: {fileID: 6579983563507118067, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 6579983563507118067, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3062077
+      objectReference: {fileID: 0}
+    - target: {fileID: 6672683696779651686, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6682046994153011184, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6723842176979214738, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741571030882737463, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6757125387377234231, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801087822860935310, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: part_engine3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801087822860935310, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6826422923468021638, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6842431266327659144, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.6611216
+      objectReference: {fileID: 0}
+    - target: {fileID: 6842431266327659144, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 6842431266327659144, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3236864
+      objectReference: {fileID: 0}
+    - target: {fileID: 6871826405012272827, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917480770426717153, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.8730298
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917480770426717153, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917480770426717153, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3003352
+      objectReference: {fileID: 0}
+    - target: {fileID: 6920822266214874510, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935720624933293435, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.9998672
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935720624933293435, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935720624933293435, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.3043892
+      objectReference: {fileID: 0}
+    - target: {fileID: 6967560784866954675, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw15_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6967560784866954675, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6975188000805629962, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.0445333
+      objectReference: {fileID: 0}
+    - target: {fileID: 6975188000805629962, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.938307
+      objectReference: {fileID: 0}
+    - target: {fileID: 6975188000805629962, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.1595507
+      objectReference: {fileID: 0}
+    - target: {fileID: 7045816594578009239, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087371804231944495, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106216941513794284, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7148865402309217065, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.7151761
+      objectReference: {fileID: 0}
+    - target: {fileID: 7148865402309217065, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0971317
+      objectReference: {fileID: 0}
+    - target: {fileID: 7148865402309217065, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.1721284
+      objectReference: {fileID: 0}
+    - target: {fileID: 7200456383824374305, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7201267487510451430, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.21869412
+      objectReference: {fileID: 0}
+    - target: {fileID: 7201267487510451430, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 7201267487510451430, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.287813
+      objectReference: {fileID: 0}
+    - target: {fileID: 7229266953947581822, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237002134193578577, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7258185655948934313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7292838832185428951, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7330510254196969616, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7330510254196969616, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7346531593126176837, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.584013
+      objectReference: {fileID: 0}
+    - target: {fileID: 7346531593126176837, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 7346531593126176837, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 7351037092517700080, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7369423861431346442, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7369423861431346442, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7379713835438775792, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7385849749380926937, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7441183157139297090, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7488949636504573892, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7490879500242337294, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2576566
+      objectReference: {fileID: 0}
+    - target: {fileID: 7490879500242337294, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 7490879500242337294, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493870561988187133, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.8695769
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493870561988187133, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 7493870561988187133, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511675735960359791, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7512342670790792570, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7537597733558375946, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.13088
+      objectReference: {fileID: 0}
+    - target: {fileID: 7537597733558375946, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 7537597733558375946, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3423085
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573904527512282843, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573904527512282843, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573904527512282843, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7595573213570556639, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7603200980771615313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.3734114
+      objectReference: {fileID: 0}
+    - target: {fileID: 7603200980771615313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6936011
+      objectReference: {fileID: 0}
+    - target: {fileID: 7603200980771615313, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3170547
+      objectReference: {fileID: 0}
+    - target: {fileID: 7609851788717542389, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw1_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 7609851788717542389, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7627646180570162563, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7752466400007359783, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7753597043041177798, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7799560960164399260, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7799560960164399260, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7891962568201803474, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7891962568201803474, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7953481125673195481, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7988245520473862141, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8032975810645964428, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054007799559164958, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.208141
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054007799559164958, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 8054007799559164958, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 8062308055502241050, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw12_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 8062308055502241050, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072574533234368507, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1112796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072574533234368507, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.5298927
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072574533234368507, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
       objectReference: {fileID: 0}
     - target: {fileID: 8092775274138270724, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -1185,6 +4249,296 @@ PrefabInstance:
       propertyPath: descriptionText
       value: 
       objectReference: {fileID: 389050947}
+    - target: {fileID: 8124766441756089569, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8143253694733229494, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8234788439000090136, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Damper pulley
+      objectReference: {fileID: 0}
+    - target: {fileID: 8234788439000090136, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8235514598691244167, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.87809837
+      objectReference: {fileID: 0}
+    - target: {fileID: 8235514598691244167, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8235514598691244167, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2844172
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273284763236573260, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287509453042048607, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw8_right
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287509453042048607, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317755545550692892, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8356443616270309315, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379476495292643962, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8384514072593023955, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8387284360469570009, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389709034169038687, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8425074115970112590, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8470830577045274109, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: cylinder1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8470830577045274109, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8481770336323972257, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482432265215271811, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526409258399107494, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.21892
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526409258399107494, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526409258399107494, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 8595367262169218473, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604144098734538073, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8662282418698909177, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: breech screw18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8662282418698909177, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8671235977728913518, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703667014289836874, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8713128257015694344, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.126884
+      objectReference: {fileID: 0}
+    - target: {fileID: 8713128257015694344, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 8713128257015694344, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715736755427267455, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721890524025190629, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753223882348263474, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.07711
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753223882348263474, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0971317
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753223882348263474, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.205924
+      objectReference: {fileID: 0}
+    - target: {fileID: 8761314381680101885, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0052218
+      objectReference: {fileID: 0}
+    - target: {fileID: 8761314381680101885, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8761314381680101885, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.3264036
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792570362871188434, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8803207760991592584, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883675035609280263, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_Name
+      value: Carburator7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883675035609280263, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898891239822310487, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.868383
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898891239822310487, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898891239822310487, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8452717
+      objectReference: {fileID: 0}
+    - target: {fileID: 8902700639497199864, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.03002274
+      objectReference: {fileID: 0}
+    - target: {fileID: 8902700639497199864, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.074932
+      objectReference: {fileID: 0}
+    - target: {fileID: 8902700639497199864, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.8689996
+      objectReference: {fileID: 0}
+    - target: {fileID: 8948513336356459685, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5288479
+      objectReference: {fileID: 0}
+    - target: {fileID: 8948513336356459685, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.259379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8948513336356459685, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2968132
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952981371423460505, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9041690665698142948, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9134809458482368268, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9169099286411624854, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 444eda93c574a254eac3003e659bdee7, type: 3}
 --- !u!1001 &8578600745690960201
