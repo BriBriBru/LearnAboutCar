@@ -49,6 +49,11 @@ public class ManageGame : MonoBehaviour
             {
                 GameOver();
             }
+
+            if (CheckWin())
+            {
+                Win();
+            }
         }
     }
 
@@ -74,8 +79,12 @@ public class ManageGame : MonoBehaviour
 
     private void GameOver()
     {
-        //fpsController.SetActive(false);
         _animator.Play("Game Over");
+    }
+
+    private void Win()
+    {
+        _animator.Play("Win");
     }
 
     public void LoadMainScene()
@@ -85,7 +94,7 @@ public class ManageGame : MonoBehaviour
 
     public void Retry()
     {
-        SceneManager.LoadSceneAsync("MiniGame");
+        SceneManager.LoadScene("MiniGame");
     }
 
     public void DisableFpsController()
