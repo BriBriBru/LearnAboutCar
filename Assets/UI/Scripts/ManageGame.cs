@@ -80,11 +80,13 @@ public class ManageGame : MonoBehaviour
     private void GameOver()
     {
         _animator.Play("Game Over");
+        // DisableFpsController();
     }
 
     private void Win()
     {
         _animator.Play("Win");
+        // DisableFpsController();
     }
 
     public void LoadMainScene()
@@ -94,7 +96,8 @@ public class ManageGame : MonoBehaviour
 
     public void Retry()
     {
-        SceneManager.LoadScene("MiniGame");
+        // SceneManager.LoadScene("MiniGame");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void DisableFpsController()
