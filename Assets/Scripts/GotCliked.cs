@@ -20,6 +20,8 @@ public class GotCliked : MonoBehaviour
 
         if (Physics.Raycast(ray, out hit))
         {
+            // If the laser hit a clone
+            // We disable it then enable the original
             if (Input.GetMouseButtonDown(0) && hit.transform.tag == "Clone" && hit.transform.name == _cloneName)
             {
                 gameObject.SetActive(false);

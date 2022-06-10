@@ -14,6 +14,7 @@ public class ChangeToggleColor : MonoBehaviour
         _colorBlock = _toggle.colors;
     }
 
+    // We change the color of the toggle if it's on
     public void ChangeColor(bool isOn)
     {
         if (isOn)

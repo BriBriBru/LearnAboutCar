@@ -66,6 +66,8 @@ public class ManageGame : MonoBehaviour
 
     private bool CheckWin()
     {
+        // Objectives are represent with toggles
+        // We check if all toggles are on
         foreach (var toggle in _toggles)
         {
             if (!toggle.isOn)

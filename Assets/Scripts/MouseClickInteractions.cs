@@ -26,6 +26,7 @@ public class MouseClickInteractions : MonoBehaviour
         {
             if (Physics.Raycast(ray, out hit))
             {
+                // Open the hood if we the laser hit on it
                 if (hit.collider.gameObject.name == "Hood")
                 {
                     ManageHoodAnimation();
@@ -33,7 +34,7 @@ public class MouseClickInteractions : MonoBehaviour
 
                 if (hit.collider.gameObject.tag == "Car Part")
                 {
-                    // Disable the shooting sight
+                    // Disable the shooting sight to avoid the green point in the center of the screen
                     if (shootingSight.activeSelf)
                     {
                         descriptionPanel.SetActive(true);
