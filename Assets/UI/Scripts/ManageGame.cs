@@ -6,7 +6,7 @@ public class ManageGame : MonoBehaviour
 {
     [Header("Countdown")]
     public GameObject rulesPanel;
-    public float timeRemaining = 25f;
+    public float timeRemaining;
     public Text displayCountdown;
 
     [Header("FPS Controller")]
