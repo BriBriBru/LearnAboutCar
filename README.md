@@ -19,3 +19,12 @@ Outils :
 - Éditeur de code : Visual Studio Code / Visual Studio 2019
 - Moteur de jeu : Unity 3D version 2020.3.33f1 LTS
 - Gestion de code : GitHub, Git
+
+# Lancer l'application sur Unity
+
+1) Télécharger le dossier du projet
+2) Ouvrir ce dossier via Unity Hub
+3) Appuyer sur le bouton Play pour lancer la scène
+
+# Lancer l'exécutable de l'application
+Learn About Car > Builds > Learn About Car.exe
