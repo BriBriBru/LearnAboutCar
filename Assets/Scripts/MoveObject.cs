@@ -1,7 +1,9 @@
 using UnityEngine;
 
-public class MoveCube : MonoBehaviour
+public class MoveObject : MonoBehaviour
 {
+    // Attach this script to GO which need to be moved with the mouse
+
     private Vector3 _Offset;
     private float _zCoord;
 
