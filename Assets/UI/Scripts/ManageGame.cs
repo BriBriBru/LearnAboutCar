@@ -4,24 +4,32 @@ using UnityEngine.SceneManagement;
 
 public class ManageGame : MonoBehaviour
 {
-    [HideInInspector]
-    public bool isReady;
-
+    [Header("Countdown")]
     public GameObject rulesPanel;
     public float timeRemaining = 25f;
     public Text displayCountdown;
 
-    private bool _win;
+    [Header("FPS Controller")]
+    public GameObject fpsController;
+
+    public Camera cam;
+
     private Animator _animator;
+    private Toggle[] _toggles;
+    private bool _isReady = false;
+
 
     void Start()
     {
         _animator = GetComponent<Animator>();
+        _toggles = GetComponentsInChildren<Toggle>();
+        DisableFpsController();
+        rulesPanel.SetActive(true);
     }
 
     void Update()
     {
-        if (isReady)
+        if (_isReady)
         {
             // Decrease the time
             if (timeRemaining >= 0f)
@@ -36,7 +44,8 @@ public class ManageGame : MonoBehaviour
                 displayCountdown.color = Color.red;
             }
 
-            if (timeRemaining <= 0f && !_win)
+            // Launch game over animation if player lose and timeout
+            if (timeRemaining <= 0f && !CheckWin())
             {
                 GameOver();
             }
@@ -45,17 +54,27 @@ public class ManageGame : MonoBehaviour
 
     public void StartGame()
     {
-        isReady = true;
+        _isReady = true;
         rulesPanel.SetActive(false);
+        EnableFpsController();
     }
 
-    private void CheckWin()
-    {
-        // Check if all toggles are "ison"
+    private bool CheckWin()
+    {   
+        foreach (var toggle in _toggles)
+        {
+            if (!toggle.isOn)
+            {
+                return false;
+            }
+        }
+
+        return true;
     }
 
     private void GameOver()
     {
+        //fpsController.SetActive(false);
         _animator.Play("Game Over");
     }
 
@@ -66,6 +85,18 @@ public class ManageGame : MonoBehaviour
 
     public void Retry()
     {
-        SceneManager.LoadScene("MiniGame");
+        SceneManager.LoadSceneAsync("MiniGame");
+    }
+
+    public void DisableFpsController()
+    {
+        fpsController.SetActive(false);
+        cam.gameObject.SetActive(true);
+    }
+
+    public void EnableFpsController()
+    {
+        fpsController.SetActive(true);
+        cam.gameObject.SetActive(false);
     }
 }
