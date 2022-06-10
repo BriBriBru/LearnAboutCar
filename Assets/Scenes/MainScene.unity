@@ -437,7 +437,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TEST
+  m_Text: 
 --- !u!222 &389050948
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -500,7 +500,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd98e6a9ba716d498f1e022655229ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  description: 
+  description: "Le carter d'huile est un des composants de votre moteur. Sous la
+    forme d'une cuve, il permet de r\xE9cup\xE9rer l'huile moteur qui sert \xE0 lubrifier
+    toutes les pi\xE8ces m\xE9caniques du syst\xE8me. Il existe deux grands types
+    de carter d'huile. Ainsi il peut \xEAtre sec ou humide selon les mod\xE8les et
+    les marques de voiture."
   descriptionText: {fileID: 389050947}
 --- !u!1 &512451771 stripped
 GameObject:
@@ -2050,6 +2054,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 223889326525618693, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 247343018782001862, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -2070,6 +2079,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 288176500284444564, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 309111645831148597, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_IsActive
@@ -2089,6 +2103,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 435333709833470519, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 439172024107649600, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -2400,6 +2419,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1466430310373833623, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 1481842469285718509, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2425,6 +2449,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1528064100906327351, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 1644432749785136015, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -2434,6 +2463,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1644432749785136015, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 1669168134221134664, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -2529,6 +2563,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2037416433415806994, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 2043619669261982741, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -2640,6 +2679,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2245242340282495740, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 2302201117588288131, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_IsActive
@@ -2724,6 +2768,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2389410329284295057, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 2516161462259670679, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -2835,6 +2884,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2857143394674943024, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 2894638908091525719, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_IsActive
@@ -2875,6 +2929,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3126735041406496767, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 3130268836695782904, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2909,6 +2968,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3231622848227767045, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 3237810331643268150, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -2999,6 +3063,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3588367569076283584, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 3590205444775272318, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -3195,6 +3264,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3994063162287290873, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 3996308919860442142, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3270,6 +3344,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4140380677568898134, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 4192819186545874747, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_IsActive
@@ -3335,6 +3414,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4323932573106145056, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 4353163786255157217, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3364,6 +3448,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4370199709346951545, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 4391863578987598469, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -3440,6 +3529,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4475766537812197413, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 4627644588733276690, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3475,6 +3569,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4681855835079279935, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 4695188312608300520, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3485,6 +3584,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4695188312608300520, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 4702608876526072588, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3494,6 +3598,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4702608876526072588, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 4702648010130884014, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -3619,6 +3728,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094172425158048564, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 5136950455805436164, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -3865,6 +3979,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6067407771927253832, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 6198570441511988681, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3900,6 +4019,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6288861102696098348, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 6305572988402232256, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -3909,6 +4033,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6305572988402232256, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 6337082011794506251, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -3994,6 +4123,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6574369518810373562, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 6579983563507118067, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -4385,6 +4519,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7799560960164399260, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 7891962568201803474, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_Name
@@ -4719,6 +4858,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8234788439000090136, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
+      objectReference: {fileID: 0}
     - target: {fileID: 8235514598691244167, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4793,6 +4937,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8470830577045274109, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 8481770336323972257, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
@@ -4923,6 +5072,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8883675035609280263, guid: 444eda93c574a254eac3003e659bdee7,
+        type: 3}
+      propertyPath: m_TagString
+      value: Car Part
       objectReference: {fileID: 0}
     - target: {fileID: 8898891239822310487, guid: 444eda93c574a254eac3003e659bdee7,
         type: 3}
